@@ -28,7 +28,7 @@ twitter_username:
 github_username:  k3rnelj
 
 # Build settings
-remote_theme: pages-themes/hacker
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
