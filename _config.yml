@@ -22,7 +22,7 @@ title: Remembytes
 email: k3rnelj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Various /(dis)?organized/ thoughts and notes.
-baseurl: "remembytes/" # the subpath of your site, e.g. /blog
+baseurl: "/remembytes/" # the subpath of your site, e.g. /blog
 url: "https://k3rnelj.github.io/"
 twitter_username: 
 github_username:  k3rnelj
