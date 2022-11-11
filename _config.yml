@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+c# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -22,8 +22,8 @@ title: Remembytes
 email: k3rnelj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Various /(dis)?organized/ thoughts and notes.
-baseurl: "remembytes/" # the subpath of your site, e.g. /blog
-url: "https://k3rnelj.github.io/"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://k3rnelj.github.io/remembytes/"
 twitter_username: 
 github_username:  k3rnelj
 
